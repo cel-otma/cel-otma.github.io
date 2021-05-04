@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.cfc2888f.chunk.css",
-    "main.js": "/static/js/main.d3837b37.chunk.js",
-    "main.js.map": "/static/js/main.d3837b37.chunk.js.map",
+    "main.js": "/static/js/main.d2ed556c.chunk.js",
+    "main.js.map": "/static/js/main.d2ed556c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3d9f09c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3d9f09c.js.map",
     "static/js/2.60594b1c.chunk.js": "/static/js/2.60594b1c.chunk.js",
@@ -18,7 +18,7 @@
     "static/css/4.c8ea90b0.chunk.css.map": "/static/css/4.c8ea90b0.chunk.css.map",
     "static/css/main.cfc2888f.chunk.css.map": "/static/css/main.cfc2888f.chunk.css.map",
     "static/js/2.60594b1c.chunk.js.LICENSE.txt": "/static/js/2.60594b1c.chunk.js.LICENSE.txt",
-    "static/media/1337.jpeg": "/static/media/1337.07d8a847.jpeg",
+    "static/media/1337.png": "/static/media/1337.07d8a847.png",
     "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d5.webp",
@@ -37,6 +37,6 @@
     "static/js/runtime-main.f3d9f09c.js",
     "static/js/2.60594b1c.chunk.js",
     "static/css/main.cfc2888f.chunk.css",
-    "static/js/main.d3837b37.chunk.js"
+    "static/js/main.d2ed556c.chunk.js"
   ]
 }
